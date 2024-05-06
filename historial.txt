@@ -1,0 +1,36 @@
+commit bd570875db5deae442e083464d044671de1763aa
+Author: victorsanchezr <srabvictor@gmail.com>
+Date:   Mon May 6 09:59:31 2024 +0200
+
+    incluyendo capitulos
+
+commit b8a16bb275b9053b45c23cf36be040cea994029a
+Merge: 8d4ad8a 4dd1756
+Author: victorsanchezr <srabvictor@gmail.com>
+Date:   Mon May 6 09:56:44 2024 +0200
+
+    Merge branch 'rama2'
+
+commit 4dd17560a276de122d9c6dd11bdb237aa6290100
+Author: victorsanchezr <srabvictor@gmail.com>
+Date:   Mon May 6 09:56:04 2024 +0200
+
+    segunda rama
+
+commit 8d4ad8ae1edf576f58b89c0013dc941c394d528f
+Author: victorsanchezr <srabvictor@gmail.com>
+Date:   Mon May 6 09:54:40 2024 +0200
+
+    añadiendo mi primera rama
+
+commit c9a1e15680be6c1f7ea13e1a71bca393e79ee3ce
+Author: victorsanchezr <srabvictor@gmail.com>
+Date:   Mon May 6 09:31:24 2024 +0200
+
+    Incluyendo el index
+
+commit c56cf1baa7041c7abbb15beb40cc2d08d5b87490
+Author: victorsanchezr <srabvictor@gmail.com>
+Date:   Mon May 6 09:30:51 2024 +0200
+
+    primer
